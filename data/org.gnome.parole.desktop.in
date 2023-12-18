@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Parole Manager
+Exec=parolemanager
+Icon=org.gnome.parole
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

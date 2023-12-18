@@ -1,0 +1,6 @@
+data/org.gnome.parole.desktop.in
+data/org.gnome.parole.appdata.xml.in
+data/org.gnome.parole.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
